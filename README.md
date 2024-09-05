@@ -10,4 +10,4 @@
 
 ---
 
-더 많은 정보와 프로젝트는 <a href="https://backbone94.github.io/portfolio/" target="_blank">포트폴리오</a>에서 확인하세요! 👋
+더 많은 정보와 프로젝트는 [포트폴리오](https://backbone94.github.io/portfolio/)에서 확인하세요! 👋
