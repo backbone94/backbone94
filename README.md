@@ -1,5 +1,3 @@
-더 많은 정보와 프로젝트는 [포트폴리오](https://backbone94.github.io/portfolio/)에서 확인하세요!
-
 ## 🛠 기술 스택 (Tech Stack)
 
 ### 프론트엔드 (Frontend)
@@ -17,3 +15,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+
+---
+
+더 많은 정보와 프로젝트는 [포트폴리오](https://backbone94.github.io/portfolio/)에서 확인하세요!
