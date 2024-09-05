@@ -6,7 +6,9 @@
 <img src="https://img.shields.io/badge/-Next.js-white?logo=next.js&logoColor=black&style=flat-square" height="30"/>
 
 ### 백엔드 (Backend)
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" height="30"/> <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square" height="30"/> <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square" height="30"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" height="30"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" height="30"/><br/>
+<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square" height="30"/> <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square" height="30"/><br/>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" height="30"/>
 
 ---
 
