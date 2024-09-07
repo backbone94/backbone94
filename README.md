@@ -1,4 +1,4 @@
-## 🛠 기술 스택 (Tech Stack)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee1684&layout=compact&theme=tokyonight)
 
 ### 프론트엔드 (Frontend)
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" height="30"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" height="30"/>
