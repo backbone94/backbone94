@@ -1,7 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee1684&layout=compact&theme=tokyonight)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=backbone94)](https://solved.ac/backbone94)
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=backbone94)](https://solved.ac/backbone94)
 
 ### 프론트엔드 (Frontend)
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" height="30"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" height="30"/>
@@ -17,6 +14,8 @@
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" height="30"/><br/>
 <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square" height="30"/> <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square" height="30"/><br/>
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" height="30"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee1684&layout=compact&theme=tokyonight)
 
 ---
 
