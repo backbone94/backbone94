@@ -1,4 +1,4 @@
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=backbone94)](https://solved.ac/backbone94)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=backbone94)](https://solved.ac/backbone94)
 
 ### 프론트엔드 (Frontend)
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" height="30"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" height="30"/>
