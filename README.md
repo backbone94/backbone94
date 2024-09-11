@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=150&text=Jun's%20GitHub&fontSize=40&animation=fadeIn&fontColor=FFFFFF" alt="Header" />
-  <br>
+  <br><br><br>
 
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/lines/backbone94?pet-id=621710787967160673" width="1000" height="200"/>
