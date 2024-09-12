@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=150&text=Jun's%20GitHub&fontSize=40&animation=fadeIn&fontColor=FFFFFF" alt="Header" />
   <br><br><br>
   <div>
-    <img src="https://render.gitanimals.org/lines/backbone94?pet-id=621710787967160673" width="500" height="200"/>
-    <img src="https://render.gitanimals.org/lines/backbone94?pet-id=621710787967160676" width="500" height="200"/>
+    <img src="https://render.gitanimals.org/lines/backbone94?pet-id=621710787967160673" width="450" height="200"/>
+    <img src="https://render.gitanimals.org/lines/backbone94?pet-id=621710787967160676" width="450" height="200"/>
   </div>
   <br><br><br>
   
