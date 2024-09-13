@@ -2,8 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=120&text=Jun's%20GitHub&fontSize=40&animation=twinkling&fontColor=FFFFFF" alt="Header" />
   <br>
   <div>
-    <img src="https://render.gitanimals.org/lines/backbone94?pet-id=621710787967160673&contribution-view=false" width="300" height="150"/>
-    <img src="https://render.gitanimals.org/lines/backbone94?pet-id=621710787967160674&contribution-view=false" width="500" height="250"/>
+    <img src="https://render.gitanimals.org/lines/backbone94?pet-id=621710787967160674&contribution-view=false" width="1000" height="250"/>
   </div>
   
   <table>
