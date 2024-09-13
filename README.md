@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=150&text=Jun's%20GitHub&fontSize=40&animation=fadeIn&fontColor=FFFFFF" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=120&text=Jun's%20GitHub&fontSize=40&animation=twinkling&fontColor=FFFFFF" alt="Header" />
   <br><br><br>
   <div>
     <img src="https://render.gitanimals.org/lines/backbone94?pet-id=621710787967160673&contribution-view=false" width="150" height="150"/>
