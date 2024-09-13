@@ -5,11 +5,6 @@
     <img src="https://render.gitanimals.org/lines/backbone94?pet-id=621710787967160673&contribution-view=false" width="200" height="200"/>
     <img src="https://render.gitanimals.org/lines/backbone94?pet-id=621710787967160674&contribution-view=false" width="500" height="250"/>
   </div>
-  <div>
-    <img src="https://render.gitanimals.org/lines/backbone94?pet-id=621710787967160672&contribution-view=false" width="250" height="100"/>
-    <img src="https://render.gitanimals.org/lines/backbone94?pet-id=621710787967160676&contribution-view=false" width="400" height="100"/>
-  </div>
-  <br><br><br>
   
   <table>
     <tr>
