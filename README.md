@@ -5,20 +5,9 @@
     <img src="https://render.gitanimals.org/lines/backbone94?pet-id=622317541046326158&contribution-view=false" width="1000" height="250"/>
   </div>
   
-  <table>
-    <tr>
-      <td>
-        <a href="https://solved.ac/backbone94">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=backbone94" alt="Solved.ac 프로필" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=backbone94&layout=compact&theme=tokyonight">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=backbone94&layout=compact&theme=tokyonight" alt="Top Langs" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=backbone94&layout=compact&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=backbone94&layout=compact&theme=tokyonight" alt="Top Langs" />
+  </a>
 
   ### 🎨 Frontend
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25"/> 
