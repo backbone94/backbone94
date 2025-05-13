@@ -9,6 +9,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=backbone94&layout=compact&theme=tokyonight" alt="Top Langs" />
   </a>
 
+  [![rankit-badge](https://badge.rankit.run/badge?name=backbone94)](https://www.rankit.run)
+
   ### 🎨 Frontend
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25"/> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25"/>
