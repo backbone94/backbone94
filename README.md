@@ -1,15 +1,15 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=120&text=Jun's%20GitHub&fontSize=40&animation=twinkling&fontColor=FFFFFF" alt="Header" />
-  <br>
+  <br/>
   <div>
     <img src="https://render.gitanimals.org/lines/backbone94?pet-id=622317541046326158&contribution-view=false" width="1000" height="250"/>
   </div>
   
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=backbone94&layout=compact&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=backbone94&layout=compact&theme=tokyonight" alt="Top Langs" />
-  </a>
+  </a><br/><br/>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="48097254-783e-4e7a-bc18-db745a80ef6b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <img src="aws-saa.png" alt="AWS Certified Solutions Architect – Associate" width="120"/>
 
   ### 🎨 Frontend
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25"/> 
