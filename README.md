@@ -4,10 +4,6 @@
   <div>
     <img src="https://render.gitanimals.org/lines/backbone94?pet-id=622317541046326158&contribution-view=false" width="1000" height="250"/>
   </div>
-  
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=backbone94&layout=compact&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=backbone94&layout=compact&theme=tokyonight" alt="Top Langs" />
-  </a><br/><br/>
 
   <img src="aws-saa.png" alt="AWS Certified Solutions Architect – Associate" width="120"/>
 
