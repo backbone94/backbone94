@@ -27,6 +27,6 @@
 
   ---
 
-  더 많은 정보와 프로젝트는 [포트폴리오](https://next-portfolio-orcin-nu.vercel.app/)에서 확인하세요! 👋
+  더 많은 정보와 프로젝트는 [포트폴리오](https://leejj.dev/)에서 확인하세요! 👋
 
 </div>
